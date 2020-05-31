@@ -80,11 +80,11 @@
 			isa = PBXGroup;
 			children = (
 				E4A6B327248458A10008863D /* AppDelegate.swift */,
-				E4A6B329248458A10008863D /* SceneDelegate.swift */,
 				E4A6B32B248458A10008863D /* ViewController.swift */,
+				E4A6B329248458A10008863D /* SceneDelegate.swift */,
+				E4A6B332248458A10008863D /* LaunchScreen.storyboard */,
 				E4A6B32D248458A10008863D /* Main.storyboard */,
 				E4A6B330248458A10008863D /* Assets.xcassets */,
-				E4A6B332248458A10008863D /* LaunchScreen.storyboard */,
 				E4A6B335248458A10008863D /* Info.plist */,
 			);
 			path = FoodTracker;
