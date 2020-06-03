@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E453C8922485A94400BA93C4 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = E453C8912485A94400BA93C4 /* RatingControl.swift */; };
 		E4A6B328248458A10008863D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A6B327248458A10008863D /* AppDelegate.swift */; };
 		E4A6B32A248458A10008863D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A6B329248458A10008863D /* SceneDelegate.swift */; };
 		E4A6B32C248458A10008863D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A6B32B248458A10008863D /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E453C8912485A94400BA93C4 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		E4A6B324248458A10008863D /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4A6B327248458A10008863D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4A6B329248458A10008863D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			children = (
 				E4A6B327248458A10008863D /* AppDelegate.swift */,
 				E4A6B32B248458A10008863D /* ViewController.swift */,
+				E453C8912485A94400BA93C4 /* RatingControl.swift */,
 				E4A6B329248458A10008863D /* SceneDelegate.swift */,
 				E4A6B332248458A10008863D /* LaunchScreen.storyboard */,
 				E4A6B32D248458A10008863D /* Main.storyboard */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E453C8922485A94400BA93C4 /* RatingControl.swift in Sources */,
 				E4A6B32C248458A10008863D /* ViewController.swift in Sources */,
 				E4A6B328248458A10008863D /* AppDelegate.swift in Sources */,
 				E4A6B32A248458A10008863D /* SceneDelegate.swift in Sources */,
